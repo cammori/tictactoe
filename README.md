@@ -1,6 +1,8 @@
 Reinforcement Learning With TicTacToe
 =====================================
 
+I CAN CHANGE ALL OF THIS!
+
 Making computers learn how to play tic-tac-toe.
 
 I started messing around with reinforcement learning when I heard about a [Flappy Bird RL project](http://sarvagyavaish.github.io/FlappyBirdRL) on GitHub. Out of the box, the algorithm took about 7 or 8 hours to train. I figured it could learn faster if multiple instances of the same algorithm spread out over the internet could all work to update the same matrix. So after forking the repo and creating a [distributed learning version](https://github.com/rolyatmax/FlappyBirdRL), I was able to get it to train in about 30 minutes with 8 browser tabs. I found myself wanting to explore reinforcement learning a bit more, and so this little project was born.
